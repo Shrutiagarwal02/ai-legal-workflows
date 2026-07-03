@@ -5,7 +5,7 @@ litigation practice — designed to speed up first-pass review without displacin
 judgment. Built and maintained by **Shruti Agarwal** (LL.M., Commercial & Corporate
 Law, Queen Mary University of London).
 
-**Live showcase:** *[add your Streamlit Community Cloud URL here once deployed]*
+**Live showcase:** [ai-legal-workflows.streamlit.app](https://ai-legal-workflows.streamlit.app/)
 
 ## What's here
 
